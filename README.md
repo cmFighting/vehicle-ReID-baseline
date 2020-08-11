@@ -1,4 +1,4 @@
-# vehicle-ReID-baseline
+# [forked]vehicle-ReID-baseline（车辆重识别基准线）
 ## Introduction
 Vehicle ReID baseline is a pytorch-based baseline for training and evaluating deep vehicle re-identification models on reid benchmarks.
 ## Updates
